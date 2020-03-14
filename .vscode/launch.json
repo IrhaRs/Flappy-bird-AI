@@ -8,7 +8,7 @@
             "name": "Python: Flappy bird",
             "type": "python",
             "request": "launch",
-            "program": "E:/Python stuff/Flappy bird/FlappyBird.py",
+            "program": "E:/Python stuff/Flappy bird/Flappy-bird-AI/FlappyBird.py",
             "console": "integratedTerminal"
         },
         {
