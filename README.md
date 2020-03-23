@@ -1,2 +1,2 @@
 # Flappy-bird-AI
-Flappy bird controlled by NN and ML 
+Flappy bird remake with neuro evolution
