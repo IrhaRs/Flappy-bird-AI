@@ -14,7 +14,6 @@ class Pillar:
         self.update_switch = True
         self.draw_switch = True
         self.debug = False
-    
 
 
 
